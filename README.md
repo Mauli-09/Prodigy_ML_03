@@ -1,2 +1,3 @@
 # Prodigy_ML_03
 The Cat vs Dog Classification project is a classic machine learning challenge that aims to develop a model capable of distinguishing between images of cats and dogs.
+Using a dataset of labeled images, the project involves preprocessing the data, training a model (often a Convolutional Neural Network or Support Vector Machine), and then evaluating its performance using metrics like accuracy. The trained model is then deployed via a web interface, allowing users to upload images to receive predictions. This project is an excellent introduction to image classification, deep learning, and practical AI deployment, with applications in fields like animal recognition and automated image tagging.
